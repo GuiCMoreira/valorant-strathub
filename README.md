@@ -8,7 +8,7 @@
 
 Trabalho de conclusão de curso - PHP sem framework, do roteamento à autenticação.
 
-[![CI](https://github.com/mfcstt/valorant-strathub/actions/workflows/ci.yml/badge.svg)](https://github.com/mfcstt/valorant-strathub/actions/workflows/ci.yml)
+[![CI](https://github.com/GuiCMoreira/valorant-strathub/actions/workflows/ci.yml/badge.svg)](https://github.com/GuiCMoreira/valorant-strathub/actions/workflows/ci.yml)
 ![PHP](https://img.shields.io/badge/PHP-8.1%2B-777BB4?logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-3.4-06B6D4?logo=tailwindcss&logoColor=white)
@@ -141,7 +141,7 @@ Não precisa de conta em serviço nenhum: o padrão é SQLite com armazenamento 
 ### Com Docker
 
 ```bash
-git clone https://github.com/mfcstt/valorant-strathub.git
+git clone https://github.com/GuiCMoreira/valorant-strathub.git
 cd valorant-strathub
 cp .env.example .env
 docker compose up
